@@ -1,0 +1,1830 @@
+{
+  "killer": "Larry Reed",
+  "weapon": "Antler trophy",
+  "motive": "Financial gain from the treasure map and jealousy over Marcus's discovery",
+  "evidence": [
+    "The antler trophy was wiped clean of fingerprints, indicating it was used as a weapon and cleaned afterward.",
+    "Larry's hiking boots were found muddy, contradicting his alibi of staying inside after dinner.",
+    "Marcus's last text at 10:28pm suggests a confrontation over ownership of the treasure map, which Larry was interested in.",
+    "The unlocked back door indicates someone could have entered or exited without being noticed, supporting the idea of a struggle.",
+    "The journal entry from Marcus indicates Larry was asking questions about the treasure map, which could have led to a motive for murder."
+  ],
+  "transcript": [
+    {
+      "action": "search",
+      "detail": "Searched Marcus's Bedroom"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Mudroom / Back Entry"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Back Porch"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Living Room"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Kitchen"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Upstairs Hallway"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What is your alibi and whereabouts between 9pm and midnight?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What is your alibi and whereabouts between 9pm and midnight?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What is your alibi and whereabouts between 9pm and midnight?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What is your alibi and whereabouts between 9pm and midnight?"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I was playing cards with Larry until about 9:15pm, and then I went to my room to video call my wife."
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I was in my room reading until midnight, completely absorbed in a novel. I didn't leave my room at a"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was outside on the back porch taking long-exposure photos of the snowfall from about 9pm to 11:30p"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, right! So, I was actually playing cards with Tom until about 9:30pm, and then I went to bed. I m"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What did you hear or see that evening?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What did you hear or see that evening?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What did you hear or see that evening?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What did you hear or see that evening?"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I heard Larry and Marcus having a rather heated argument around 9pm. It seemed to revolve around som"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly outside on the back porch taking long-exposure photos of the snowfall. I did hear a lou"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, I was just playing cards with Tom, you know, trying to unwind after a long week. But I"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Well, during the card game with Larry, I noticed he was quite agitated and kept bringing up debts pe"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Your alibi states you were in your room, but you heard a commotion between Marcu"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned seeing Sofia sneaking around the hallway at 10pm, but you were pla"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You heard raised voices around 10:30pm, but you were on a video call until 10:45"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You heard a loud thud around 10:35pm, but you were outside taking photos. How co"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was on the back porch, and the cabin is pretty quiet at night. The sound carried, I guess. I thoug"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, right! Well, you see, I stepped out for a quick moment after we finished the game, just to grab "
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: That's a good question. I was on the call with my wife, but the sound from downstairs was quite loud"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I heard the argument between Marcus and Larry around 9pm. I didn't mention it earlier because, frank"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, your hiking boots are damp and have fresh mud on them, yet you claim you "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned hearing a commotion between Marcus and Larry. Can you elabo"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, your camera's EXIF data shows you were taking photos from 9:04pm to 11:27"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, you mentioned seeing Larry in the hallway around 11pm looking pale and shak"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on the snowfall and the way the light reflected off the snow. I didn't notice a"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I heard raised voices around 9pm, which was unusual for them. It sounded like they were arguing abou"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I can't say for certain what caused Larry to look that way. He seemed really agitated during our car"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, those boots? I must have stepped in some mud earlier in the day, you know how it is when you"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned stepping in mud earlier, but the boot prints outside lead f"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned a significant argument between Marcus and Larry. How do you"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, if you were focused on taking photos, how did you hear the loud thud from"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, you mentioned that Larry looked pale and shaky. Did you notice anything els"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, during our card game, Larry was unusually agitated. He kept bringing up debts and seemed fixate"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was on the back porch, but I was taking long-exposure shots, which means I had to wait for the cam"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, you know how it is with old cabins and all that. I must have stepped in some mud earlier in "
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: It's hard to say definitively, but given the tension I witnessed between Marcus and Larry earlier in"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned earlier that you were playing cards with Tom until 9:30pm. "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned that you were focused on your own issues with Marcus. Can y"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, you mentioned you were focused on the snowfall. Did you happen to capture"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, you mentioned that Larry was fixated on debts. Did he mention any specific "
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, well, you know how it is\u2014teaching can be stressful, and sometimes I just get a little anxious ab"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, during our card game, Larry kept bringing up the idea of debts, but he didn't mention any speci"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Certainly. Our issues primarily revolved around trust and commitment. Marcus had a tendency to make "
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was really focused on the snowfall and the night sky, so I didn't take any photos of the cabin or "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned feeling anxious about your family's situation. Can you clar"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned trust issues with Marcus. Did you ever confront him about t"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, if you were focused on the snowfall, how did you feel about the argument "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, you mentioned trying to steer the conversation away from Larry's debts. Did"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was really focused on getting the right shots of the snow, so I didn't pay much attention to the a"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Oh, it was definitely more of a simmering tension. Confronting him about trust issues would have req"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, well, you know, I was just worried about my family\u2019s financial troubles, but it wasn\u2019t reall"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, during our card game, Larry kept bringing up debts and financial pressures, which seemed to rea"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned feeling overwhelmed. Did you ever express these feelings to"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned Marcus's disregard for your past. Can you elaborate on what"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice any unusual behavior from Marcus during the time you were "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry had any specific interactions with Marcus that seem"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated during our card game. He kept bringing up "
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: It's quite simple, really. Marcus seemed to forget the promises we made and the memories we shared, "
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on my photography, so I didn't pay much attention to what was happening inside."
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, you know, we talked about a lot of things back in college, but I wouldn't say I ever really open"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned your grandfather's antique shop. Did you ever discuss any s"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned feeling like Marcus was moving on. Did you feel that he was"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you capture any images of the cabin that might show the state of thin"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if there were any specific triggers that made Larry's agitat"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on the snowfall and the night sky, so I didn't take any photos of the inside of"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, you know, we talked about family stuff, like how my grandfather was always on the lookout for ra"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated when the topic of debts came up. He kept b"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: It's hard to say what Marcus was feeling, but it certainly seemed like he was prioritizing his new l"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned friendly banter about antiques. Did you ever feel that Marc"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned feeling betrayed by Marcus's decision to sell the cabin. Di"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, if you were outside the cabin, did you notice any unusual sounds or movem"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation was directed at anyone in particular du"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated, and he kept bringing up the topic of debt"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, well, you know how it is\u2014friends can joke around, right? I mean, Marcus always had that tech sta"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on my photography, but I did hear a loud thud from inside around 10:35pm. I tho"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I certainly had my feelings about it, but I didn't get the chance to express them until that night. "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned friendly banter about antiques. Did you ever feel that Marc"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned being furious about Marcus's plans. Did you confront him ab"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice if anyone came outside during your photography session?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to escalate at any point during "
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I was certainly upset when I discovered his plans to sell the cabin, but I didn't confront him that "
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed increasingly agitated during our card game. He kept bringing up "
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, no, not at all! I mean, we joked around a lot, you know? Marcus always had this way of teasing, "
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: No, I didn't see anyone come outside while I was taking photos. I was pretty focused on my camera an"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned that Marcus's teasing was in good fun. Did you ever feel th"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned trying to process your feelings about Marcus's plans. Did y"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice any lights on inside the cabin while you were outside taki"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to be directed at Marcus specifi"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, it did seem like Larry's agitation was particularly focused on Marcus. He kept bringing up debt"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, no, not really! I mean, Marcus was just being Marcus, you know? We talked about family stuff som"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I didn't pay much attention to the lights, to be honest. I was focused on getting the right shots of"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I wouldn't say my relationship with Marcus was at risk; it was already over. His decision to sell th"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned that Marcus was just being himself. Did you ever feel that "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned that Marcus's decision felt like a betrayal. Did you ever e"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice if there were any unusual sounds coming from inside the ca"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to escalate when discussing spec"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I certainly had my fair share of feelings about it, but expressing them directly to Marcus was never"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, well, you know, Marcus always had that confident vibe, right? I mean, sometimes it felt like he "
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I heard a loud thud around 10:35pm, but I just assumed someone dropped something. It was pretty quie"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated when the topic of debts came up during our"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned that Marcus had a confident vibe. Did you ever feel that th"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned that you preferred to channel your energy into your career."
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice if there were any lights on inside the cabin during the ti"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to be directed at Marcus specifi"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: It's quite possible. I was focused on building my career while he seemed more interested in fleeting"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, it did seem like Larry's agitation was particularly focused on Marcus. He kept bringing up debt"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, well, you know, Marcus always had that air about him, like he could take on the world. But, uh, "
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on my photography outside, so I didn't pay much attention to the lights inside."
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned that Marcus didn't understand the value of your family's hi"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned that Marcus was more interested in fleeting pleasures. Did "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice if there were any unusual sounds coming from inside the ca"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to escalate when discussing spec"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, well, you know, we had some discussions about family stuff, but it was all friendly! I mean, Mar"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated when the topic of debts came up. He was al"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Well, it certainly didn't help. I always believed in commitment and the value of shared experiences,"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I heard a loud thud around 10:35pm, but I just assumed someone dropped something. It was pretty quie"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned that your discussions with Marcus were friendly. Did you ev"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned that Marcus's behavior frustrated you. Did you ever confron"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice if there were any lights on inside the cabin during the ti"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to escalate when discussing spec"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, no, not at all! I mean, we talked about family stuff, sure, but it was all in good fun. Marcus a"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on my photography outside, so I didn't pay much attention to the lights inside."
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Confronting Marcus about his behavior would have been a futile exercise in my experience. He had a k"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated when the topic of debts came up during our"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned that Marcus's jokes were friendly. Did you ever feel that t"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned that confronting Marcus would have been futile. Did you eve"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice if there were any unusual sounds coming from inside the ca"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to escalate when discussing spec"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated when the topic of debts came up during our"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, no, not really! I mean, Marcus had a way of joking that could be a bit sharp, but it was all in "
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I prefer to keep my frustrations to myself, thank you very much. Besides, who would want to listen t"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I heard a loud thud around 10:35pm, but I just assumed someone dropped something. It was pretty quie"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned that Marcus's jokes were typical college banter. Did you ev"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned that you prefer to keep your frustrations to yourself. Did "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice if there were any lights on inside the cabin during the ti"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to escalate when discussing spec"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on my photography outside, so I didn't pay much attention to the lights inside."
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated when the topic of debts came up during our"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Well, I suppose one could say that my preference for composure can be misinterpreted as aloofness. I"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, no, not really! I mean, college is all about joking around, right? We all had our quirks, and Ma"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned that Marcus's jokes were part of the college experience. Di"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned that your composure might be misinterpreted as aloofness. D"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice if there were any unusual sounds coming from inside the ca"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to escalate when discussing spec"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I heard a loud thud around 10:35pm, but I just assumed someone dropped something. It was pretty quie"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated when the topic of debts came up during our"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: It's possible. My sharpness can sometimes be mistaken for distance, especially in a group dynamic wh"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, no, not really! I mean, Marcus had a way of joking that was just part of his charm, you know? So"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned that Marcus's jokes were part of his charm. Did you ever fe"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned that your focus on logic and reason has its merits. Did thi"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice if there were any lights on inside the cabin during the ti"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to escalate when discussing spec"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on my photography outside, so I didn't pay much attention to the lights inside."
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: It's possible. My analytical nature can sometimes come off as cold or detached, especially in a grou"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated when the topic of debts came up during our"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, well, you know, Marcus had a way of joking that could be a bit much sometimes, but I always thou"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned that Marcus's jokes were part of his charm. Did you ever fe"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned that your analytical nature can come off as cold. Did this "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice if there were any unusual sounds coming from inside the ca"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to escalate when discussing spec"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on my photography, but I did hear a loud thud around 10:35pm. I thought it was "
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: It's possible. My focus on logic and precision can sometimes overshadow the emotional nuances that o"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, no, not really! I mean, Marcus had a way of joking that was just part of who he was, you know? S"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated when the topic of debts came up during our"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned that Marcus's jokes were part of who he was. Did you ever f"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned that your focus on logic can overshadow emotional nuances. "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice if there were any lights on inside the cabin during the ti"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to escalate when discussing spec"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: It's possible. My analytical nature often leads me to prioritize facts over feelings, which can crea"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on my photography outside, so I didn't pay much attention to the lights inside."
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, well, you know, Marcus had a way of joking that could be a bit much sometimes, but I always thou"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated when the topic of debts came up during our"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned that Marcus's jokes were part of who he was. Did you ever f"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned that your analytical nature can create a barrier. Did this "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice if there were any unusual sounds coming from inside the ca"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to escalate when discussing spec"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I heard a loud thud around 10:35pm, but I just assumed someone dropped something. It was pretty quie"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: It's possible. My tendency to dissect situations can come off as cold or detached, especially in a g"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, well, you know, Marcus had a unique sense of humor, right? I mean, sometimes he pushed the envel"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated when the topic of debts came up during our"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned that Marcus's humor could rub people the wrong way. Did you"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned that your analytical nature can come off as cold. Did this "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice if there were any lights on inside the cabin during the ti"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to escalate when discussing spec"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, no, not really! I mean, Marcus was just being Marcus, you know? He had that way of joking around"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: It's possible. My focus on logic and precision can sometimes overshadow the emotional nuances that o"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated when the topic of debts came up during our"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on my photography outside, so I didn't pay much attention to the lights inside."
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Larry, you mentioned that Marcus's jokes were just friendly banter. Did you ever"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Diana, you mentioned that your focus on logic can overshadow emotional nuances. "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Sofia, did you notice if there were any unusual sounds coming from inside the ca"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: Tom, did you notice if Larry's agitation seemed to escalate when discussing spec"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, no, not at all! I mean, Marcus was just being Marcus, you know? He always had a way of lightenin"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on my photography, but I did hear a loud thud around 10:35pm. I thought it was "
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: It's possible. My analytical nature often leads me to prioritize reason over sentiment, which can cr"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Larry seemed particularly agitated when the topic of debts came up during our"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What is your alibi and whereabouts between 9pm and midnight?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What did you hear or see that evening?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What is your alibi and whereabouts between 9pm and midnight?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What did you hear or see that evening?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What is your alibi and whereabouts between 9pm and midnight?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What did you hear or see that evening?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What is your alibi and whereabouts between 9pm and midnight?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What did you hear or see that evening?"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, right! So, I was actually playing cards with Tom until about 9:30pm, and then I went to bed. I m"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I was playing cards with Larry until about 9:15pm, and then I went to my room to video call my wife."
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I was in my room reading, completely absorbed in a novel, until I fell asleep around midnight. I did"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I heard Larry and Marcus having a rather heated argument around 9pm. It seemed to revolve around som"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, I was just playing cards with Tom, you know, trying to unwind after a long week. But I"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was outside on the back porch taking long-exposure photos of the snowfall from about 9pm to 11:30p"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly outside on the back porch taking long-exposure photos of the snowfall. I did hear a lou"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Well, during the card game with Larry, I noticed he seemed quite agitated, especially when he kept b"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned hearing a commotion between Marcus and Larry around 9pm. Can you e"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You said you were playing cards with Tom until 9:30pm, but Tom claims he went to"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned hearing raised voices around 10:30pm. Can you clarify what you hea"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You said you heard a loud thud from inside the cabin around 10:35. Can you descr"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I just assumed it was someone dropping something, maybe a bag or a piece of furniture. I was focused"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, well, you know how it is with card games! Sometimes you lose track of time, right? I thought"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Of course. While I was on the video call with my wife, I could hear raised voices coming from downst"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: It was just a heated exchange, nothing I could make out clearly. They were clearly upset about somet"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned being agitated about debts during the card game. Can you explain w"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You were outside taking photos during the time of the murder. Can you confirm if"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned a heated argument between Marcus and Larry. Did you see either of "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You said you saw Larry in the hallway around 11pm looking pale and shaky. What d"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: No, I didn't see either of them after their argument. I was in my room, engrossed in a book, trying "
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, you know how it is\u2014Tom was just venting a bit about his finances. He mentioned needing some help"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was focused on my photography, so I didn't really pay attention to anyone else outside. I was out "
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I noticed Larry seemed a bit off, but I didn't think much of it at the time. He mentioned he was jus"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned a friendly chat about finances, but your boots are muddy and you c"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You didn't see anyone else outside while taking photos, but can you confirm the "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned being in your room reading. Can you confirm if you heard anything "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You said you were on a video call during the time of the murder. Can you provide"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: No, I was quite engrossed in my book after our discussion. I didn't hear anything unusual after that"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Of course. I was on a video call with my wife from 9:20pm to 10:45pm, and we were discussing our day"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was outside on the back porch with my camera from about 9pm to 11:30pm. I was focused on getting t"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, the muddy boots! Right, well, you see, I might have stepped outside for a moment to, um, get"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned stepping outside for fresh air, but the back door was found unlock"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You were outside taking photos during the time of the murder. Did you notice any"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned being in your room reading. Did you notice anything unusual about "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned feeling relieved to talk to your wife during the call. Did you hea"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was focused on my photography, so I didn't really pay much attention to what was happening inside."
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did hear some raised voices coming from downstairs around 10:30pm. It sounded like Marcus was"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Not particularly. I was engrossed in my book, and the atmosphere felt quite normal to me. I suppose "
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, I didn't actually go outside! I just meant I was feeling a bit stuffy in the room, you know?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned the door might have swung open. But if you didn't go outside, how "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You heard a loud thud around 10:35pm. Can you confirm if that was before or afte"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned the atmosphere felt normal. Did you notice any signs of struggle o"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You said you heard raised voices around 10:30pm. Did you recognize who was invol"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I couldn't make out the exact voices, but it sounded like Marcus was involved, as I mentioned to my "
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I think it was before Marcus's last text. I remember hearing the thud around 10:35pm, but I was outs"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: No, everything seemed perfectly normal at first glance. The only thing that caught my eye was the an"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, the muddy boots! Right, well, you know how it is\u2014people can track in mud from anywhere. I me"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned that someone else could have come in and out. But the back door wa"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You heard a thud around 10:35pm. Did you see anyone enter or exit the cabin arou"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned the antler trophy was crooked. Did you notice if it had been handl"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You said it sounded like Marcus was involved in the argument. Did you hear anyth"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was outside on the back porch with my camera, so I didn't see anyone come or go. I just heard the "
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I didn't pay much attention to the trophy itself, just that it was out of place. I suppose it could "
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I didn't catch any specific words, but it was definitely heated. I remember thinking that Marcus see"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, well, you know how it is with old houses. Sometimes doors just, um, get stuck or something, "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned seeing Sofia sneaking around the hallway. Can you clarify what you"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You were focused on your photography. Did you notice anything unusual about the "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You were focused on the argument with Marcus. Can you tell me more about what th"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned that Marcus was at the center of the argument. Did you notice if h"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: From what I could gather, Marcus seemed to be particularly agitated about some financial matters. He"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, yeah! I saw her around 10pm, just kind of moving quietly, you know? It seemed a bit odd, lik"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was pretty focused on getting the right shots of the snowfall, so I didn't pay much attention to w"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: It was a rather trivial matter, really. Marcus was adamant about selling the cabin, which he had pro"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned seeing Sofia moving quietly around 10pm. Did you see her go outsid"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You heard a loud thud around 10:35pm. Did you notice if anyone came outside afte"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned Marcus was adamant about selling the cabin. Did you notice if he h"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus was agitated about financial matters. Did he mention anythi"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was outside on the porch taking photos, so I didn't see anyone come out after the thud. I just ass"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, during our card game, Larry kept bringing up debts people owe, which seemed to agitate Marcus. "
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Yes, he was quite insistent about it, which I found rather shocking. He had promised that the cabin "
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, no, I didn't see her go outside or anything like that. She was just, you know, kind of sneak"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned that you were focused on cards with Tom. Did you notice if anyone "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You were focused on your photography. Did you notice if anyone else was outside "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned feeling infuriated about Marcus's plans to sell the cabin. Did you"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned that Larry was bringing up debts during the card game. Did you not"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: No, I kept my feelings to myself. I was more focused on trying to understand why he would even consi"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: No, I didn't see anyone else outside while I was taking photos. I was pretty focused on getting the "
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Marcus seemed a bit on edge when Larry brought up debts. It was an uncomforta"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, you know, I was really just focused on the game with Tom. But I did see Sofia sneaking"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned seeing Sofia sneaking around. Did you notice if she interacted wit"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned it was quiet outside. Did you hear any voices or sounds coming fro"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned keeping your feelings to yourself. Did you notice if Marcus was ac"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned trying to steer the conversation away from debts. Did you notice i"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Marcus was always a bit of a showman, but that night he seemed more on edge than usual. Perhaps it w"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I did notice that Marcus seemed a bit defensive when I tried to change the subject. He had a wa"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, yeah! I saw Sofia in the hallway around 10pm, but she was just, you know, kind of wandering "
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: It was pretty quiet out there, just the sound of the snow falling. I did hear a loud thud from insid"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned Sofia seemed distracted. Did you notice if she was acting differen"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You heard a loud thud around 10:35pm. Did you notice if anyone came outside afte"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned Marcus was more on edge than usual. Did you notice if he had any s"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus was defensive when you tried to change the subject. Did he "
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was outside on the porch with my camera, so I didn't see anyone come out. I just assumed the thud "
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, you know, Sofia can be a bit, uh, quirky sometimes. I did see her sneaking around the "
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, when I tried to steer the conversation away from his recent financial troubles, Marcus became n"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Yes, I did overhear a rather heated argument between Marcus and Larry around 9pm. It seemed to revol"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned Sofia was pacing back and forth. Did you notice if she was looking"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned being focused on your photography. Did you notice if anyone else w"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned overhearing a heated argument between Marcus and Larry. Can you te"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus snapped at you when you tried to change the subject. Did he"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was really just concentrating on my camera and the snow, so I didn't pay much attention to what wa"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, I wouldn't say she was looking for anything specific. She just seemed a bit anxious, you kno"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, he did seem a bit on edge. When I tried to steer the conversation away from his financial situa"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I only caught snippets of their conversation, but it seemed to revolve around something that belonge"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned that Sofia seemed anxious. Did you notice if she was acting differ"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned hearing noises inside. Did you hear any voices or conversations wh"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned snippets of the argument between Marcus and Larry. Did you catch a"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus felt overwhelmed. Did he express any specific concerns abou"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: No, I didn't hear any voices or conversations while I was outside. I was focused on my photography, "
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, you know how it is with people sometimes. I mean, she was just kind of sneaking around"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I only caught fragments of their conversation, but it seemed to revolve around something that belong"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, Marcus did mention feeling overwhelmed about his finances, especially lately. He had been under"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned that everyone was on edge. Did you notice if anyone was acting par"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned being in your own world while taking photos. Did you notice if any"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned the argument was about something belonging to Larry's family. Can "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus joked about keeping the group afloat. Did he express any sp"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I can't say for certain what the argument was about, but it seemed to revolve around some family hei"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, well, you know how it is when tensions run high! I did see Sofia sneaking around the hallway aro"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was pretty focused on my photography, so I didn't really pay attention to anyone coming outside. I"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, Marcus did occasionally mention feeling stressed about finances, especially when it came to his"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned seeing Sofia lurking around. Did you notice if she was looking for"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned hearing a loud thud around 10:35. Did you notice if anyone came ou"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned the argument was about a family heirloom or property. Did you catc"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus joked about finances. Did he express any specific concerns "
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: No, I didn't see anyone come outside after the thud. I was focused on my photography and didn't real"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I didn't catch every word, but it was clear that Larry was quite agitated about something he believe"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, I just saw her in the hallway around 10pm, you know? She seemed a bit, uh, anxious, bu"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, during our time together, Marcus would sometimes make light of financial situations, but I sens"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned Sofia seemed anxious. Did you notice if she was acting differently"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned being focused on your photography. Did you notice if anyone else w"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned the argument was about something Marcus was planning to take. Can "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus was trying to assert control. Did he express any specific c"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was really just concentrating on getting the right shots of the snow. I didn't pay much attention "
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I believe the argument was about the cabin, specifically Marcus's intention to sell it. He had promi"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, yeah, I guess you could say she was a bit on edge. I mean, I saw her sneaking around t"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, Marcus did mention some concerns about money recently. He had been feeling the pressure of debt"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned that everyone was on edge. Did you notice if anyone was acting par"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned being focused on your photography. Did you notice if anyone else w"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned the argument was about the cabin. Did you catch any specific detai"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus was feeling the pressure of debts. Did he express any speci"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Not particularly, no. It was mostly a lot of raised voices and vague accusations. I do remember Marc"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was pretty absorbed in my photography, so I didn't pay much attention to what was happening inside"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, Marcus did mention feeling overwhelmed by his financial obligations, especially in recent conve"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, well, you know how it is when tensions run high! I did see Sofia sneaking around the hallway aro"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned seeing Sofia lurking around. Did you notice if she was looking for"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned hearing a loud thud around 10:35. Did you notice if anyone came ou"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned the argument was about the cabin. Did you catch any specific detai"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus was feeling overwhelmed. Did he express any specific concer"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, Marcus did mention feeling stressed about his finances recently. He had been talking about debt"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Not particularly, no. It was more of a heated exchange than a rational discussion. I do recall Marcu"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, I wouldn't say she was looking for anything specific. You know how it is\u2014people just w"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: No, I didn't see anyone come outside after the thud. I was focused on my camera and the photos I was"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned that you were focused on your card game with Tom. Did you notice i"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned being focused on your photography. Did you notice if anyone else w"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned the argument was about the cabin. Did you catch any specific detai"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus was feeling overwhelmed. Did he express any specific concer"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Not particularly, no. It was more of a heated exchange than a rational discussion. I do recall Marcu"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, Marcus did mention feeling overwhelmed lately, particularly about his finances. He had been und"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was really just concentrating on my camera and the snow, so I didn't pay much attention to what wa"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, you know, I was really just concentrating on the cards, but I did see Sofia sneaking a"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned seeing Sofia sneaking around. Did you notice if she was looking fo"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned hearing a loud thud around 10:35. Did you notice if anyone came ou"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned the argument was about the cabin. Did you catch any specific detai"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus was feeling overwhelmed. Did he express any specific concer"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Not particularly, no. It was mostly a lot of raised voices and vague accusations. I do remember Marc"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, Marcus did mention feeling stressed about his finances recently. He had been talking about debt"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: No, I didn't see anyone come outside after the thud. I was focused on my photography and didn't real"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, I didn't really see her looking for anything in particular. She just seemed a bit... I"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned that you were focused on your card game with Tom. Did you notice i"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned being focused on your photography. Did you notice if anyone else w"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned the argument was about the cabin. Did you catch any specific detai"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus was feeling overwhelmed. Did he express any specific concer"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was pretty absorbed in my photography, so I didn't pay much attention to what was happening inside"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, Marcus did mention feeling overwhelmed lately, particularly about his finances. He had been und"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Not particularly, no. It was more of a heated exchange than a rational discussion. I do recall Marcu"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, you know, I was really just focused on the cards, trying to win a few hands. But I did"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned seeing Sofia sneaking around. Did you notice if she was looking fo"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned hearing a loud thud around 10:35. Did you notice if anyone came ou"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned the argument was about the cabin. Did you catch any specific detai"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus was feeling overwhelmed. Did he express any specific concer"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: No, I didn't see anyone come outside after the thud. I was focused on my camera and the photos I was"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Not particularly, no. It was more of a heated exchange than a rational discussion. I do recall Marcu"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, Marcus did mention feeling stressed about his finances recently. He had been talking about debt"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, I didn't really get a good look at her. She was just kind of, you know, moving around "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned seeing Sofia moving around quietly. Did you notice if she was look"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned being focused on your photography. Did you notice if anyone else w"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned the argument was about the cabin. Did you catch any specific detai"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus was feeling overwhelmed. Did he express any specific concer"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Not particularly, no. It was mostly a lot of raised voices and vague accusations. I do remember Marc"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, I didn't really see her looking for anything in particular. She just seemed a bit... I"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, Marcus did mention feeling overwhelmed lately, particularly about his finances. He had been und"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was really just concentrating on my camera and the snow, so I didn't pay much attention to what wa"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned seeing Sofia sneaking around. Did you notice if she was looking fo"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned hearing a loud thud around 10:35. Did you notice if anyone came ou"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned the argument was about the cabin. Did you catch any specific detai"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned Marcus was feeling overwhelmed. Did he express any specific concer"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: No, I didn't see anyone come outside after the thud. I was focused on my photography and didn't real"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, I just saw her in the hallway around 10pm, you know? She seemed a bit, uh, shifty, lik"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, Marcus did mention feeling overwhelmed lately, particularly about his finances. He had been und"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Not particularly, no. It was more of a heated exchange than a rational discussion. I do recall Marcu"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What is your alibi and whereabouts between 9pm and midnight?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What did you hear or see that evening?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What is your alibi and whereabouts between 9pm and midnight?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What did you hear or see that evening?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What is your alibi and whereabouts between 9pm and midnight?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What did you hear or see that evening?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What is your alibi and whereabouts between 9pm and midnight?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What did you hear or see that evening?"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, right! So, I was definitely at home, you know, just chilling out. I played cards with Tom until "
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I was in my room reading until midnight, completely absorbed in my book. I didn't leave my room at a"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, well, I was just playing cards with Tom, you know, trying to unwind after a long week. But I"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I was playing cards with Larry until about 9:15pm, and then I went to my room to video call my wife."
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I heard Larry and Marcus having a rather heated argument around 9pm. It seemed to revolve around som"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was outside on the back porch taking long-exposure photos of the snowfall from about 9pm to 11:30p"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly outside on the back porch, taking long-exposure photos of the snowfall. I did hear a lo"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Well, during the card game with Larry, I noticed he seemed quite agitated, especially when he kept b"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned hearing a commotion between Larry and Marcus around 9pm. Can you e"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You said you played cards with Tom until 9:30pm, but there are muddy boot prints"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned hearing raised voices around 10:30pm. Can you clarify what you hea"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You said you heard a loud thud from inside the cabin around 10:35. Can you descr"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: It was just a heated exchange, nothing I could make out clearly. They were clearly upset about somet"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, muddy boots? That\u2019s strange! I mean, I didn\u2019t see any muddy boots, but you know how it is\u2014pe"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I just assumed it was someone dropping something, maybe a bag or a piece of furniture. I was focused"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I heard raised voices coming from downstairs around 10:30pm. It sounded like there was some sor"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned that you heard a heated argument between Larry and Marcus. Did you"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned that you were trying to sleep after 9:30pm, but the back door was "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You said you were on a video call during the time of the murder. Can you provide"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned being outside taking photos. Can you explain why your camera was a"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Yes, I can provide proof. My phone records will show the call with my wife lasted from 9:20pm to 10:"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I did notice the antler trophy was crooked on the mantel when I came down. It struck me as odd, but "
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, well, you know how it is with old houses\u2014sometimes doors just don\u2019t latch properly. I mean, "
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was really focused on capturing the snowfall and the way it looked against the trees. I find natur"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You mentioned seeing Sofia sneaking around the hallway. Can you describe what yo"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You said the antler trophy was crooked. Did you notice any fingerprints on it?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You mentioned hearing a loud thud. Did you see anyone near the cabin around that"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You mentioned that you heard raised voices. Did you recognize who was arguing?"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I didn't examine the trophy closely enough to notice any fingerprints. My focus was on the fact that"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: No, I didn't see anyone near the cabin at that time. I was focused on my photography, so I was mostl"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, um, yeah! I saw Sofia around 10pm, I think. She was just, you know, kind of lurking near the sta"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I couldn't make out the exact words, but it definitely sounded like Marcus was involved. He had a wa"
+    }
+  ]
+}
